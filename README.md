@@ -1,2 +1,47 @@
 # Cybersecurity-portfolio
-A hands-on cybersecurity portfolio showcasing incident response, threat analysis, and network security projects using real-world tools and scenarios.
+
+
+## About Me
+Aspiring Cybersecurity Analyst with hands-on experience in incident response, network scanning, and threat analysis. Focused on developing practical SOC and blue team skills using real-world security tools and simulated environments.
+
+## Projects
+
+### 1. Nmap Scan
+- Conducted Nmap scans on simulated network environments  
+- Identified open ports, services, and potential vulnerabilities  
+- Analyzed scan results to understand network exposure  
+
+---
+
+### 2. Phishing Analysis
+- Analyzed phishing emails and malicious attachments  
+- Identified common phishing indicators (spoofed domains, suspicious links, urgency tactics)  
+- Documented findings and recommended mitigation steps  
+
+---
+
+### 3. Malware Investigation
+- Analyzed suspicious files and hashes using VirusTotal  
+- Reviewed behavioral indicators of malicious activity  
+- Documented detection results and threat classification  
+
+---
+
+### 4. Incident Response Write-Up
+- Investigated Trojan:Win64/Meterpreter.E on a Windows endpoint  
+- Performed triage using Microsoft Defender for Endpoint and system logs  
+- Identified system compromise and potential unauthorized remote access  
+- Executed containment actions and escalation to L2 for further investigation  
+
+---
+
+## Tools Used
+- Microsoft Defender for Endpoint  
+- Windows Event Viewer  
+- PhishTool  
+- Nmap  
+- Wireshark  
+- VirusTotal  
+- Elastic Stack  
+- Splunk  
+- VirtualBox  
