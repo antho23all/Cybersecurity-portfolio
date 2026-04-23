@@ -44,4 +44,28 @@ Aspiring Cybersecurity Analyst with hands-on experience in incident response, ne
 - VirusTotal  
 - Elastic Stack  
 - Splunk  
-- VirtualBox  
+- VirtualBox
+
+
+## Screenshots
+
+### Nmap Scan
+![Windows Nmap Scan](screenshots/nmap-scan-1.png)
+![Windows Nmap Scan](screenshots/nmap-scan-2.png)
+![Linux Nmap Scan](screenshots/nmap-scan-3.png)
+![Linux Nmap Scan](screenshots/nmap-scan-4.png)
+
+
+### Phishing Analysis
+![Phishing Email](screenshots/phishing-analysis-1.png)
+![PhishTool](screenshots/phishing-analysis-2.png)
+![VirusTotal](screenshots/phishing-analysis-3.png)
+
+### Malware Investigation (VirusTotal)
+![Email](screenshots/malware-analysis-1.png)
+![VirusTotal Results](screenshots/malware-analysis-2.png)
+
+
+### Incident Reponse Write-Up
+![Trojan](screenshots/incident-resposne-1.png)
+
