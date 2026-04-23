@@ -50,22 +50,22 @@ Aspiring Cybersecurity Analyst with hands-on experience in incident response, ne
 ## Screenshots
 
 ### Nmap Scan
-![Windows Nmap Scan](NmapScreenshots/nmap-scan-1.png)
-![Windows Nmap Scan](screenshots/nmap-scan-2.png)
-![Linux Nmap Scan](screenshots/nmap-scan-3.png)
-![Linux Nmap Scan](screenshots/nmap-scan-4.png)
+![Windows Nmap Scan](nmap-scan-1.png)
+![Windows Nmap Scan](nmap-scan-2.png)
+![Linux Nmap Scan](nmap-scan-3.png)
+![Linux Nmap Scan](nmap-scan-4.png)
 
 
 ### Phishing Analysis
-![Phishing Email](screenshots/phishing-analysis-1.png)
-![PhishTool](screenshots/phishing-analysis-2.png)
-![VirusTotal](screenshots/phishing-analysis-3.png)
+![Phishing Email](phishing-analysis-1.png)
+![PhishTool](phishing-analysis-2.png)
+![VirusTotal](phishing-analysis-3.png)
 
 ### Malware Investigation (VirusTotal)
-![Email](screenshots/malware-analysis-1.png)
-![VirusTotal Results](screenshots/malware-analysis-2.png)
+![Email](malware-analysis-1.png)
+![VirusTotal Results](malware-analysis-2.png)
 
 
 ### Incident Reponse Write-Up
-![Trojan](screenshots/incident-resposne-1.png)
+![Trojan](incident-resposne-1.png)
 
