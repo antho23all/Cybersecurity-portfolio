@@ -50,7 +50,7 @@ Aspiring Cybersecurity Analyst with hands-on experience in incident response, ne
 ## Screenshots
 
 ### Nmap Scan
-![Windows Nmap Scan](screenshots/nmap-scan-1.png)
+![Windows Nmap Scan](NmapScreenshots/nmap-scan-1.png)
 ![Windows Nmap Scan](screenshots/nmap-scan-2.png)
 ![Linux Nmap Scan](screenshots/nmap-scan-3.png)
 ![Linux Nmap Scan](screenshots/nmap-scan-4.png)
